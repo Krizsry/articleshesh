@@ -1,5 +1,5 @@
 {
-  "articles": [
+  "ARTICLES": [
     {
       "id": "Red-Redemption",
       "title": "Red Phoenix's representatives dominates Likhawitan Intramurals 2025",
@@ -14,7 +14,7 @@
         "campus"
       ],
       "publishedAt": "2025-08-14T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "bleg-vb",
@@ -30,7 +30,7 @@
         "Volleyball"
       ],
       "publishedAt": "2025-08-31T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "Intrams-2025",
@@ -45,7 +45,7 @@
         "Intramurals"
       ],
       "publishedAt": "2025-09-06T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "g-vb",
@@ -61,7 +61,7 @@
         "Volleyball"
       ],
       "publishedAt": "2025-08-30T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "tk-g",
@@ -77,7 +77,7 @@
         "Taekwondo"
       ],
       "publishedAt": "2025-08-25T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "tk-b",
@@ -93,7 +93,7 @@
         "taekwondo"
       ],
       "publishedAt": "2025-08-25T03:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "bb-3x3",
@@ -109,7 +109,7 @@
         "basketball"
       ],
       "publishedAt": "2025-08-17T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "arnis-b",
@@ -125,7 +125,7 @@
         "Arnis"
       ],
       "publishedAt": "2025-08-16T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "chess-1",
@@ -141,7 +141,7 @@
         "Chess"
       ],
       "publishedAt": "2025-08-15T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "Soarvivors",
@@ -157,7 +157,7 @@
         "Chant"
       ],
       "publishedAt": "2025-08-12T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "nutrimonth",
@@ -173,7 +173,7 @@
         "Celebration"
       ],
       "publishedAt": "2025-08-06T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "wika",
@@ -189,7 +189,7 @@
         "Filipino"
       ],
       "publishedAt": "2025-08-05T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "yes-o",
@@ -206,7 +206,7 @@
         "Challenge"
       ],
       "publishedAt": "2025-08-03T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "cleanupdrive",
@@ -222,7 +222,7 @@
         "Cleanup Drive"
       ],
       "publishedAt": "2025-06-15T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "Recollection",
@@ -239,7 +239,7 @@
         "2024-2025"
       ],
       "publishedAt": "2025-04-03T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "SSLG",
@@ -255,7 +255,7 @@
         "ELECTION"
       ],
       "publishedAt": "2025-03-04T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "nasa",
@@ -271,7 +271,7 @@
         "Breakthrough"
       ],
       "publishedAt": "2025-02-04T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "congrats",
@@ -287,7 +287,7 @@
         "Volleyball"
       ],
       "publishedAt": "2024-12-18T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "Influencers",
@@ -303,7 +303,7 @@
         "cartooning"
       ],
       "publishedAt": "2024-11-15T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "bb",
@@ -319,7 +319,7 @@
         "basketball"
       ],
       "publishedAt": "2024-11-01T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "DAGGERS",
@@ -335,7 +335,7 @@
         "basketball"
       ],
       "publishedAt": "2024-10-30T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "dipsaa",
@@ -351,7 +351,7 @@
         "City Meet"
       ],
       "publishedAt": "2024-10-29T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "sport-Culminating",
@@ -367,7 +367,7 @@
         "Sports Culminating"
       ],
       "publishedAt": "2024-10-16T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "hi",
@@ -383,7 +383,7 @@
         "Cartooning"
       ],
       "publishedAt": "2024-08-08T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "favor-substance",
@@ -399,7 +399,7 @@
         "SUBSTANCE OVER STYLE"
       ],
       "publishedAt": "2024-02-02T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "WOW-AMAZING-GALING",
@@ -415,7 +415,7 @@
         "music"
       ],
       "publishedAt": "2025-10-07T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "FEATURE-LOW-IN-THE-GLOW",
@@ -430,7 +430,7 @@
         "TV"
       ],
       "publishedAt": "2025-10-28T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "training2025",
@@ -446,7 +446,7 @@
         "2025"
       ],
       "publishedAt": "2025-10-26T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "NULATSULAT",
@@ -462,7 +462,7 @@
         "Mulat:Sulat"
       ],
       "publishedAt": "2025-10-23T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     },
     {
       "id": "Planetable",
@@ -478,8 +478,267 @@
         "Volleyball"
       ],
       "publishedAt": "2025-11-11T10:30:00+08:00",
-      "readMinutes": "-"
+      "readMinutes": ""
     }
   ],
-
+  "CATEGORIES": [
+    {
+      "id": "announcement",
+      "label": "Announcement"
+    },
+    {
+      "id": "news",
+      "label": "News"
+    },
+    {
+      "id": "editorial",
+      "label": "Editorial"
+    },
+    {
+      "id": "features",
+      "label": "Features"
+    },
+    {
+      "id": "sports",
+      "label": "Sports"
+    },
+    {
+      "id": "campus",
+      "label": "Campus"
+    },
+    {
+      "id": "science",
+      "label": "Science"
+    }
+  ],
+  "NEWSPAPERS": [
+    {
+      "id": "issue-1",
+      "images": [
+        "/newspaper/2025/2_2025.jpg",
+        "/newspaper/2025/12_2025.jpg",
+        "/newspaper/2025/3_2025.jpg",
+        "/newspaper/2025/4_2025.jpg",
+        "/newspaper/2025/5_2025.jpg",
+        "/newspaper/2025/6_2025.jpg",
+        "/newspaper/2025/7_2025.jpg",
+        "/newspaper/2025/8_2025.jpg",
+        "/newspaper/2025/9_2025.jpg",
+        "/newspaper/2025/10_2025.jpg",
+        "/newspaper/2025/11_2025.jpg",
+        "/newspaper/2025/1_2025.jpg"
+      ],
+      "title": "2024-2025",
+      "background": "asset/header.png"
+    }
+  ],
+  "ORG_MEMBERS": [
+    {
+      "id": 101,
+      "name": "Aika Guimbaolibot",
+      "role": "Photojournalism",
+      "link": "https://www.facebook.com/roseaika.guimbaolibot.7"
+    },
+    {
+      "id": 102,
+      "name": "Mark Joshua A. Sarabia",
+      "role": "Photojournalism",
+      "link": ""
+    },
+    {
+      "id": 103,
+      "name": "Eos Fortunado",
+      "role": "Editorial Cartooning",
+      "link": ""
+    },
+    {
+      "id": 104,
+      "name": "Queen Ravi Dela Cruz",
+      "role": "Sports Writing",
+      "link": "https://www.facebook.com/queenravi.delacruz"
+    },
+    {
+      "id": 105,
+      "name": "Princess Nicole Diez",
+      "role": "News Writing",
+      "link": "https://www.facebook.com/share/1GmAtQdXMK/"
+    },
+    {
+      "id": 106,
+      "name": "Arneth Suzenn B. Flormata",
+      "role": "Feature Writing",
+      "link": "https://www.facebook.com/share/17TKWKswbi/"
+    },
+    {
+      "id": 107,
+      "name": "Terrence Jesreyn Engcoy",
+      "role": "Sports Writing",
+      "link": "https://www.facebook.com/share/1CadWsuAjZ/"
+    },
+    {
+      "id": 108,
+      "name": "Honeylyn Casero",
+      "role": "Photojournalism",
+      "link": "https://www.facebook.com/share/1CVJ5ZaZLX/"
+    },
+    {
+      "id": 109,
+      "name": "Crystal Mae C. Benosa",
+      "role": "Radio Broadcasting",
+      "link": "https://www.facebook.com/share/19iPZb18KK/"
+    },
+    {
+      "id": 110,
+      "name": "Doña Akeisha Cañares",
+      "role": "Copyreader",
+      "link": "https://www.facebook.com/share/164PfiLtCc/"
+    },
+    {
+      "id": 111,
+      "name": "Mythea Chanyl R. Del Castillo",
+      "role": "News Writing",
+      "link": "https://www.facebook.com/mytheia.delcastillo?mibextid=ZbWKwL"
+    },
+    {
+      "id": 112,
+      "name": "Lyzara Cabrera",
+      "role": "Sports Writing",
+      "link": "https://www.facebook.com/share/1D4HYo2Hs5/"
+    },
+    {
+      "id": 113,
+      "name": "Gelo Bulagnir",
+      "role": "Radio Broadcasting",
+      "link": "https://www.facebook.com/share/1624PKsbZX/"
+    },
+    {
+      "id": 114,
+      "name": "Chryle janelle p. gammaru",
+      "role": "Sci-tech",
+      "link": ""
+    },
+    {
+      "id": 115,
+      "name": "Queen Princess Joanna M. Vicada",
+      "role": "Radio Broadcasting",
+      "link": "https://www.facebook.com/patrick.joanna.90"
+    },
+    {
+      "id": 116,
+      "name": "Ysabella Marie U. Rodriguez",
+      "role": "Feature Writing",
+      "link": "https://www.facebook.com/share/16GLbqGhCE/"
+    },
+    {
+      "id": 117,
+      "name": "Noriaxl Rafael F. Palma",
+      "role": "Editorial Writing",
+      "link": "https://www.facebook.com/share/1G82jDLhmT/"
+    },
+    {
+      "id": 118,
+      "name": "Vera Mariz T. Nierras",
+      "role": "Radio Broadcasting",
+      "link": "https://www.facebook.com/share/1GLQDce21d/"
+    },
+    {
+      "id": 119,
+      "name": "Dorothea Logon",
+      "role": "Copyreader",
+      "link": ""
+    },
+    {
+      "id": 121,
+      "name": "Shanon Chloe Serito",
+      "role": "Layout Artist",
+      "link": "https://www.facebook.com/shanon.chloe.serito.2023?mibextid=ZbWKwL"
+    },
+    {
+      "id": 122,
+      "name": "Carl Daniel V. Casteloy",
+      "role": "Layout Artist",
+      "link": "https://www.facebook.com/danyelcrzteloy?mibextid=rS40aB7S9Ucbxw6v"
+    },
+    {
+      "id": 123,
+      "name": "Emmanuelle Chona Buñag",
+      "role": "Column Writing",
+      "link": "https://www.facebook.com/share/1ZWz6Euq6r/"
+    },
+    {
+      "id": 124,
+      "name": "Frances Arrianne E. Osinsao",
+      "role": "Photojournalism",
+      "link": "https://www.facebook.com/share/1PpcSo3smm/"
+    }
+  ],
+  "ORG_OFFICERS": [
+    {
+      "id": 1,
+      "name": "Richer Castillo Fernandez",
+      "role": "Adviser",
+      "link": "https://www.facebook.com/happytohaveyou"
+    },
+    {
+      "id": 2,
+      "name": "Lance Jhared R. Rendon",
+      "role": "President",
+      "link": "https://www.facebook.com/lancejhared.rendon.50"
+    },
+    {
+      "id": 3,
+      "name": "Axel Jan B. Morales",
+      "role": "Vice President",
+      "link": "https://www.facebook.com/axel.jan.morales.2025"
+    },
+    {
+      "id": 4,
+      "name": "Kriz Cristobal",
+      "role": "Technical Manager",
+      "link": "https://www.facebook.com/krieush"
+    },
+    {
+      "id": 5,
+      "name": "Lyana Mawrece R. Cabrera",
+      "role": "Secretary",
+      "link": "https://www.facebook.com/lyana.cabrera"
+    },
+    {
+      "id": 6,
+      "name": "Loraine Joselle Amparado",
+      "role": "Treasurer",
+      "link": "https://www.facebook.com/100018759296681"
+    },
+    {
+      "id": 7,
+      "name": "Ayumu Mignonnette Kimura",
+      "role": "Auditor",
+      "link": "https://www.facebook.com/Ayuui00"
+    },
+    {
+      "id": 8,
+      "name": "Lynjie G. Malaque",
+      "role": "PIO",
+      "link": "https://www.facebook.com/lynjie.malaque.5"
+    },
+    {
+      "id": 9,
+      "name": "Jillian Foehn I. Masculino",
+      "role": "PIO Executive",
+      "link": "https://web.facebook.com/jfoehn.1u"
+    },
+    {
+      "id": 10,
+      "name": "Ezevelle Junessa Y. Matias",
+      "role": "P.O / Editor-in-Chief",
+      "link": "https://www.facebook.com/ezevelle.junessa.matias.2025"
+    }
+  ],
+  "SITE": {
+    "name": "The West WOKE",
+    "tagline": "The Official School Publication",
+    "school": "Dasmariñas West National High School",
+    "logoText": "asset/hi.png",
+    "heroImage": "asset/bg.jpg"
+  }
 }
