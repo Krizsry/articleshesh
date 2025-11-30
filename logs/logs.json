@@ -1,9 +1,7 @@
-{
-  "logs": [
-    {
-      "time": "2025-11-30T09:51:38.138Z",
-      "action": "Login",
-      "details": "Admin logged in"
-    }
-  ]
-}
+[
+  {
+    "time": "2025-11-30T09:57:26.421Z",
+    "action": "Login",
+    "details": "Admin logged in"
+  }
+]
