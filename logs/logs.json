@@ -293,5 +293,20 @@
     "time": "2025-11-30T10:17:54.557Z",
     "action": "Load",
     "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "2025-11-30T10:36:28.725Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "11/30/2025, 5:37:45 PM",
+    "action": "Login",
+    "details": "Admin logged in"
+  },
+  {
+    "time": "11/30/2025, 5:37:41 PM",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
   }
 ]
