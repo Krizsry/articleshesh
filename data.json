@@ -1,19 +1,6 @@
 {
   "articles": [
     {
-      "id": "new-1764492225214-732",
-      "title": "test",
-      "excerpt": "test",
-      "content": "test\ntest\n\ntest😁",
-      "image": "https://raw.githubusercontent.com/Krizsry/articleshesh/main/img/new-1764492225214-732-IMG_6955-2.jpg.webp",
-      "category": "test ",
-      "author": "test",
-      "tags": [
-        "test"
-      ],
-      "publishedAt": "2025-11-30T16:44:00.000Z"
-    },
-    {
       "id": "Red-Redemption",
       "title": "Red Phoenix's representatives dominates Likhawitan Intramurals 2025",
       "excerpt": "Grade 9–Red Phoenix defeated the Mockingjays, Eagles, and Falcons to win the championship in the Likhawitan Intramurals 2025, held on the stage of Dasmariñas West National High School on August 9, 2025.",
@@ -277,13 +264,13 @@
       "content": "On the 24th day of December 2024, the National Aeronautics and Space Administration (NASA) announced the record-breaking Parker Solar Probe's closest approach to the Sun. \n\n\n\n\nThe probe flew 3.8 million miles above the surface, creating a new record being the closest approach to the star.\n\n\n\n\n\"Flying this close to the Sun is a historic moment in humanity’s first mission to a star,\" Nicky Fox, leader of NASA’s science mission directorate, said.\n\n\n\n\nFor discoveries to go through, the probe must survive a temperature of 1,400°C, as it travels through the Sun's outer atmosphere, the Corona.\n\n\n\n\nWith the closest distance to the star, the probe has recorded 3 types of sun's sound waves created by the solar winds such as Dispersive Chirping Waves, Langmuir Waves, and Whistler Mode Waves.\n\n\n\n\nWhen these sound waves interact with Earth's magnetic field, Aurora skies occur and can be seen in some countries. However, these occurrences may cut power grids, electronics, and communication systems.\n\n\n\n\nAstronomer Dr. Jenifer Millard noted that the probe must survive high temperatures, radiation, and cosmic dust from the Sun.\n\n\n\n\nIf successful , it will bring back data about the Sun's magnetic field which will help to understand the planets sitting between the magnetic field and the influence of life on Earth.\n\n\n\n\nNASA's Parker Solar Probe continues to strive to eventually touch the Sun and open greater discoveries that will help our understanding of our solar system.",
       "image": "img/nasap.jpg",
       "category": "science",
-      "author": "https://raw.githubusercontent.com/Krizsry/articleshesh/main/Loraine Joselle Amparado",
+      "author": "Loraine Joselle Amparado",
       "tags": [
         "Science",
         "NASA",
         "Breakthrough"
       ],
-      "publishedAt": "2025-02-04T10:30:00+08:00",
+      "publishedAt": "2025-02-04T08:46:00.000Z",
       "readMinutes": ""
     },
     {
