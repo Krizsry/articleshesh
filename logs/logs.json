@@ -3,5 +3,15 @@
     "time": "2025-11-30T09:57:26.421Z",
     "action": "Login",
     "details": "Admin logged in"
+  },
+  {
+    "time": "2025-11-30T09:58:31.001Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "2025-11-30T09:58:30.927Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
   }
 ]
