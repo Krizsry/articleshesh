@@ -1,9 +1,14 @@
 {
   "logs": [
     {
-      "time": "2025-11-30T09:51:27.717Z",
-      "action": "Login",
-      "details": "Admin logged in"
+      "time": "2025-11-30T09:51:27.874Z",
+      "action": "Load",
+      "details": "Loaded data.json from GitHub"
+    },
+    {
+      "time": "2025-11-30T09:51:27.759Z",
+      "action": "Load",
+      "details": "Loaded data.json from GitHub"
     }
   ]
 }
