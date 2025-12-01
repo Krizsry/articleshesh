@@ -1083,5 +1083,50 @@
     "time": "2025-12-01T12:00:21.670Z",
     "action": "Load",
     "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "2025-12-01T12:01:44.106Z",
+    "action": "Delete",
+    "details": "new-1764590448020-829"
+  },
+  {
+    "time": "2025-12-01T12:01:44.106Z",
+    "action": "Image Delete",
+    "details": "img/hi.png"
+  },
+  {
+    "time": "2025-12-01T12:01:20.549Z",
+    "action": "Save",
+    "details": "Saved to GitHub"
+  },
+  {
+    "time": "2025-12-01T12:01:17.076Z",
+    "action": "Publish",
+    "details": "new-1764590448020-829"
+  },
+  {
+    "time": "2025-12-01T12:01:17.076Z",
+    "action": "Edit",
+    "details": "new-1764590448020-829"
+  },
+  {
+    "time": "2025-12-01T12:00:48.021Z",
+    "action": "Create",
+    "details": "new-1764590448020-829"
+  },
+  {
+    "time": "2025-12-01T12:00:44.084Z",
+    "action": "Login",
+    "details": "Admin logged in"
+  },
+  {
+    "time": "2025-12-01T12:00:21.676Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "2025-12-01T12:00:21.670Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
   }
 ]
