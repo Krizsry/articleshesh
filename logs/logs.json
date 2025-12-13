@@ -1473,5 +1473,20 @@
     "time": "2025-12-13T13:28:08.198Z",
     "action": "Load",
     "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "2025-12-13T13:28:10.125Z",
+    "action": "Login",
+    "details": "Admin logged in"
+  },
+  {
+    "time": "2025-12-13T13:28:08.201Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "2025-12-13T13:28:08.198Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
   }
 ]
