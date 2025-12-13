@@ -1698,5 +1698,30 @@
     "time": "2025-12-13T13:41:37.888Z",
     "action": "Load",
     "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "2025-12-13T13:43:18.325Z",
+    "action": "Delete",
+    "details": "new-1765632981000-867"
+  },
+  {
+    "time": "2025-12-13T13:43:18.308Z",
+    "action": "Image Not Deleted",
+    "details": "Image still used by other articles"
+  },
+  {
+    "time": "2025-12-13T13:41:40.765Z",
+    "action": "Login",
+    "details": "Admin logged in"
+  },
+  {
+    "time": "2025-12-13T13:41:37.892Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "2025-12-13T13:41:37.888Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
   }
 ]
