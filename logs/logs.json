@@ -1,71 +1,16 @@
 [
   {
-    "time": "2026-03-14T10:09:27.579Z",
+    "time": "2026-03-14T10:11:29.586Z",
+    "action": "Login",
+    "detail": "Admin session started"
+  },
+  {
+    "time": "2026-03-14T10:11:23.770Z",
     "action": "Load",
     "detail": "31 articles from GitHub"
   },
   {
-    "time": "2026-03-14T10:09:27.283Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T10:09:05.876Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T10:09:05.572Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T10:02:06.749Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T10:02:06.447Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T10:00:28.237Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T10:00:27.937Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T09:59:41.829Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T09:59:41.530Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T09:59:18.455Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T09:59:18.161Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T09:54:44.624Z",
-    "action": "Load",
-    "detail": "31 articles from GitHub"
-  },
-  {
-    "time": "2026-03-14T09:54:44.330Z",
+    "time": "2026-03-14T10:11:23.463Z",
     "action": "Load",
     "detail": "31 articles from GitHub"
   }
