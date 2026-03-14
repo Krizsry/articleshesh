@@ -1,22 +1,32 @@
 [
   {
-    "time": "2026-03-14T09:40:28.835Z",
+    "time": "2026-03-14T09:44:43.401Z",
     "action": "Login",
-    "details": "Admin logged in"
+    "detail": "Admin session started"
   },
   {
-    "time": "2026-03-14T09:40:18.023Z",
+    "time": "2026-03-14T09:44:40.271Z",
     "action": "Load",
-    "details": "Loaded data.json from GitHub"
+    "detail": "31 articles from GitHub"
   },
   {
-    "time": "2026-03-14T09:40:09.741Z",
+    "time": "2026-03-14T09:44:39.534Z",
     "action": "Load",
-    "details": "Loaded data.json from GitHub"
+    "detail": "31 articles from GitHub"
   },
   {
-    "time": "2026-03-14T09:40:09.435Z",
+    "time": "2026-03-14T09:44:38.236Z",
     "action": "Load",
-    "details": "Loaded data.json from GitHub"
+    "detail": "31 articles from GitHub"
+  },
+  {
+    "time": "2026-03-14T09:44:37.942Z",
+    "action": "Load",
+    "detail": "31 articles from GitHub"
+  },
+  {
+    "time": "2026-03-14T09:44:36.046Z",
+    "action": "Load",
+    "detail": "31 articles from GitHub"
   }
 ]
