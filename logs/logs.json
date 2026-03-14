@@ -1,5 +1,20 @@
 [
   {
+    "time": "2026-03-14T09:39:13.959Z",
+    "action": "Login",
+    "details": "Admin logged in"
+  },
+  {
+    "time": "2026-03-14T09:39:10.388Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
+  },
+  {
+    "time": "2026-03-14T09:39:10.090Z",
+    "action": "Load",
+    "details": "Loaded data.json from GitHub"
+  },
+  {
     "time": "2026-03-14T09:36:15.265Z",
     "action": "Load",
     "details": "Loaded data.json from GitHub"
