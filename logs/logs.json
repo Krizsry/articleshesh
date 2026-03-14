@@ -1,22 +1,12 @@
 [
   {
-    "time": "2026-03-14T09:28:37.048Z",
+    "time": "2026-03-14T09:29:08.088Z",
     "action": "Load",
     "details": "Loaded data.json from GitHub"
   },
   {
-    "time": "2026-03-14T09:28:36.756Z",
+    "time": "2026-03-14T09:29:07.795Z",
     "action": "Load",
     "details": "Loaded data.json from GitHub"
-  },
-  {
-    "time": "2026-03-14T09:28:35.863Z",
-    "action": "Login",
-    "details": "Admin logged in"
-  },
-  {
-    "time": "2026-03-14T09:28:35.861Z",
-    "action": "Login",
-    "details": "Admin logged in"
   }
 ]
